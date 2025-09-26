@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ 
 # 💫 About M e:
 ## About Me<br><br>Game development student at Metropolia University of Applied Sciences with a focus on Unity, C#, Javascript, Typescript, Pixi.js, Python and C++. 
 <br>My projects include team-based game jam entries like Raiz of the Roots, Bubblements.
