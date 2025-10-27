@@ -1,7 +1,7 @@
 ## Hi there 👋
  
 #💫About Me:
-##About Me<br><br>Game development student at Metropolia University of Applied Sciences with a focus on Unity, C#, Javascript, Typescript, Pixi.js, Python and C++. 
+##About Me<br><br> Software developer student at Metropolia University of Applied Sciences with a focus on Unity, C#, Javascript, Typescript, Node.js, Three.js,Pixi.js, Python and C++. 
 <br>My projects include team-based game jam entries like Raiz of the Roots, Bubblements.
 <br>Solo creations such as Merlin Card Game.
 <br>I am eager to contribute to new opportunities in the game development sector.<br>
