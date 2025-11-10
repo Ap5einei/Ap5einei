@@ -1,6 +1,6 @@
 ##  Hi there 👋
  
-###💫About Me:  
+###💫 About Me:  
 I am a Bachelor of Engineering student in Information and Communication Technology at Metropolia University of Applied Sciences, specializing in game development. My main subjects focus on game design and programming using Unity, C#, JavaScript, TypeScript, Node.js, Three.js, Pixi.js, Python, and C++.  
 My projects include team-based game jam entries like *Raiz of the Roots* and *Bubblements*, as well as solo creations such as *Merlin Card Game*.   
 
