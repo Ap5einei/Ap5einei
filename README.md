@@ -1,48 +1,24 @@
-## Hi there 👋 I'm Benjamin Masena
+# 💫 About Me:
+Newly graduated Software Engineer (B.Eng.) from Metropolia, specializing in Game Programming, Backend Systems, and Full-Stack Development. <br><br>My core strength lies in combining strict programming logic and performance optimization from the gaming world with modern, scalable web architectures and data-driven solutions. I have a passion for transforming complex customer and system requirements into clean, performant, and reliable code.<br><br>🚀 What I Do:<br>• Backend & APIs: Node.js, Python (FastAPI), and SQL.<br>• Full-Stack Web: React, Node.js, TypeScript (Full Stack Open by University of Helsinki).<br>• Interactive Experiences: Unity (C#) and C++.<br>
 
-I am a newly graduated **Software Engineer (B.Eng.)** from Metropolia University of Applied Sciences, specializing in **Game Programming**, **Backend Systems**, and **Full-Stack Development**. 
 
-My core strength lies in combining strict programming logic and memory optimization from the gaming world with modern, scalable web architectures and data-driven solutions. I have a passion for transforming complex customer and system requirements into clean, performant, and reliable code.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Benjamin Masena ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@benjaminmasena183) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benjamin.masena@gmail.com) 
 
-### 🚀 What I Do:
-* **Backend & APIs:** Designing and implementing robust servers and data automation scripts using Node.js, Python (FastAPI), and SQL.
-* **Full-Stack Web:** Crafting dynamic web applications, backed by rigorous testing, following my advanced studies in the University of Helsinki's *Full Stack Open* curriculum.
-* **Interactive Experiences:** Developing real-time immersive applications and games using Unity (C#) and C++.
-
----
-
-## 🌐 Connect with me:
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Discord](https://shields.io)](https://discord.gg) [![Itch.io](https://shields.io)](https://itch.io)
-
----
-
-## 💻 Tech Stack:
-
-### Languages & Querying
-![TypeScript](https://shields.io) ![JavaScript](https://shields.io) ![Python](https://shields.io) ![C#](https://shields.io) ![C++](https://shields.io) ![MicrosoftSQLServer](https://shields.io)
-
-### Web & Backend Frameworks
-![NodeJS](https://shields.io) ![FastAPI](https://shields.io) ![React](https://shields.io) ![React Native](https://shields.io) ![Socket.io](https://shields.io)
-
-### Tools, Platforms & Methods
-![Azure](https://shields.io) ![.Net](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io) ![Linux](https://shields.io) ![Docker](https://shields.io) ![Trello](https://shields.io)
-
-### Game & Graphics Engines
-![Unity](https://shields.io) ![WebGL](https://shields.io) ![Godot Engine](https://shields.io) ![Blender](https://shields.io)
-
----
-
-## 📊 GitHub Stats:
-![](https://vercel.app)<br/>
-![](https://vercel.app)
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ap5einei&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ap5einei&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ap5einei&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://vercel.app)
+![](https://github-profile-trophy.vercel.app/?username=ap5einei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://vercel.app)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://itsvg.in)](https://itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ap5einei&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Capture](https://github.com)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
